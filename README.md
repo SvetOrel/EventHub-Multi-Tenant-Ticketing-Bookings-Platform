@@ -20,4 +20,16 @@ It is designed to cover **most backend roadmap topics**: APIs, databases, cachin
 
 ## 📂 Project Structure
 
+eventhub/
+├── backend/ # Spring Boot application (source code lives here)
+│ └── .gitkeep # placeholder until code is added
+├── infra/ # Infrastructure: databases, queues, storage
+│ └── docker-compose.yml
+├── docs/ # Documentation & architecture notes
+│ └── ARCHITECTURE.md
+├── .github/workflows/ # CI/CD pipelines
+│ └── ci.yml
+├── README.md # This file
+└── .gitignore
+
 
