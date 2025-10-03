@@ -1,0 +1,2 @@
+# EventHub Architecture
+This document will track architecture decisions, diagrams, and notes.
